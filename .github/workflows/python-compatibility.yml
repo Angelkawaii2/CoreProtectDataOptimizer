@@ -1,4 +1,4 @@
-name: Python Compatibility Check
+name: Python Compatibility Check 3.7~3.12
 
 on: [ push, pull_request ]
 
